@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg7268"
+   sodipodi:docname="stick-toggled-prelight.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7272" />
+  <sodipodi:namedview
+     id="namedview7270"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="5.6949153"
+     inkscape:cy="16.067797"
+     inkscape:window-width="1413"
+     inkscape:window-height="868"
+     inkscape:window-x="27"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7268" />
+  <rect
+     width="24"
+     height="24"
+     fill="#09090a"
+     id="rect7258"
+     x="0"
+     y="0"
+     style="stroke-width:0.75" />
+  <rect
+     width="24"
+     height="0.75"
+     fill="#a5a5a5"
+     fill-opacity="0.1"
+     id="rect7260"
+     x="0"
+     y="0"
+     style="stroke-width:0.75" />
+  <g
+     fill="#a5a5a5"
+     id="g7266"
+     transform="scale(0.75)">
+    <circle
+       cx="16"
+       cy="16"
+       r="12"
+       opacity="0.08"
+       id="circle7262" />
+    <path
+       d="m 16,10 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,2 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z m 0,2 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+       id="path7264" />
+  </g>
+</svg>
