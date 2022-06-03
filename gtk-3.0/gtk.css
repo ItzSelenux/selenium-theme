@@ -1318,7 +1318,7 @@ headerbar .linked:not(.vertical).path-bar > button {
 
 
 .primary-toolbar scale slider, headerbar scale slider {
-  background-color: #2f2f2f;
+  background-color: #3a3a3a;
   border-color: rgba(13, 13, 13, 0.7); }
   
   .primary-toolbar scale slider:hover, headerbar scale slider:hover {
@@ -2090,8 +2090,8 @@ scale {
     -gtk-outline-radius: 7px; }
   scale slider {
     background-clip: border-box;
-    background-color: #2f2f2f;
-    border: 1px solid #242424;
+    background-color: #363636;
+    border: 1px solid #444444;
     border-radius: 50%;
     box-shadow: none; }
     scale slider:disabled {

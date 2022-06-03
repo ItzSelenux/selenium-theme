@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="11.25"
-     inkscape:cy="12.90625"
+     inkscape:zoom="8"
+     inkscape:cx="0.375"
+     inkscape:cy="22.9375"
      inkscape:window-width="1413"
      inkscape:window-height="874"
      inkscape:window-x="27"
@@ -37,18 +37,11 @@
      height="26"
      fill="#09090a"
      id="rect1342"
-     style="fill:#778c63;fill-opacity:1;stroke-width:0.8125"
+     style="fill:#7a8f64;fill-opacity:1;stroke-width:0.8125"
      x="0"
      y="0" />
-  <g
-     aria-label="i"
-     transform="matrix(0.00147308,0.71928707,-0.71928707,0.00147308,3.5168997,20.281595)"
-     id="text1981"
-     style="font-weight:bold;font-size:32.5983px;line-height:1.25;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff;stroke-width:0.814959">
-    <path
-       d="m -2.1616452,-7.147094 c -0.478109,0 -0.880154,-0.1521254 -1.206137,-0.4563762 -0.304251,-0.325983 -0.4557345,-0.7280291 -0.456376,-1.2061372 l -0.01175,-8.7577166 c -6.706e-4,-0.499841 0.152125,-0.901886 0.456376,-1.206137 0.325983,-0.304251 0.728028,-0.456377 1.206137,-0.456377 0.499841,0 0.901886,0.152126 1.20613702,0.456377 0.304251,0.304251 0.45570537,0.706296 0.45637597,1.206137 l 0.01175,8.7577166 c 6.415e-4,0.4781081 -0.15212497,0.8801542 -0.45637597,1.2061372 -0.30425102,0.3042508 -0.70629602,0.4563762 -1.20613702,0.4563762 z"
-       id="path1983"
-       sodipodi:nodetypes="scsscsssscs"
-       style="fill:#ffffff" />
-  </g>
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.99795;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;paint-order:stroke fill markers"
+     d="M 7.842777,20.457947 H 18.157223"
+     id="path439" />
 </svg>

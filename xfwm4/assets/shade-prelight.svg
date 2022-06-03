@@ -1,66 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="26"
+   height="26"
+   viewBox="0 0 26 26"
    version="1.1"
-   id="svg5999"
-   sodipodi:docname="shade-prelight.svg"
+   id="svg2787"
+   sodipodi:docname="shade-toggled-prelight.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6003" />
+     id="defs2791" />
   <sodipodi:namedview
-     id="namedview6001"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#505050"
+     id="namedview2789"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="5.6949153"
-     inkscape:cy="16.067797"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-30.582368"
+     inkscape:cy="15.821514"
      inkscape:window-width="1413"
-     inkscape:window-height="868"
+     inkscape:window-height="874"
      inkscape:window-x="27"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5999" />
+     inkscape:current-layer="svg2787" />
   <rect
-     width="24"
-     height="24"
+     width="26"
+     height="26"
      fill="#09090a"
-     id="rect5989"
-     x="0"
-     y="0"
-     style="stroke-width:0.75" />
-  <rect
-     width="24"
-     height="0.75"
-     fill="#a5a5a5"
-     fill-opacity="0.1"
-     id="rect5991"
-     x="0"
-     y="0"
-     style="stroke-width:0.75" />
+     id="rect1342"
+     style="fill:#8fa876;fill-opacity:1;stroke-width:0.8125"
+     x="-4.9999997e-08"
+     y="-1.3880339e-07" />
   <g
-     fill="#a5a5a5"
-     id="g5997"
-     transform="scale(0.75)">
-    <circle
-       cx="16"
-       cy="16"
-       r="12"
-       opacity="0.08"
-       id="circle5993" />
-    <path
-       d="M 10,18 11.41,19.41 16,14.82 20.59,19.41 22,18 16,12 Z"
-       id="path5995" />
-  </g>
+     aria-label="X"
+     transform="matrix(1.0719635,0,0,0.93286758,0.08117556,0.04628694)"
+     id="text1799"
+     style="font-weight:bold;font-size:15.6525px;line-height:1.25;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.391313" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.606;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:90.7465;paint-order:stroke fill markers"
+     d="M 19.2734,16.139361 13.016427,9.860564 6.7265999,16.133716"
+     id="path778"
+     sodipodi:nodetypes="ccc" />
 </svg>
