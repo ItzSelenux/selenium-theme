@@ -74,7 +74,7 @@ label selection {
   background-color: #8fa876; }
 
 label:disabled {
-  color: rgba(255, 255, 255, 1.0); }
+  color: #838383 }
 
 .dim-label, popover label.separator,
 popover.background label.separator, label.separator {
